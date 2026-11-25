@@ -1,0 +1,17 @@
+## Interface: 16001, 120105, 120107
+## Title: |cff7f9effqfont|r
+## Notes: Customize the font face, sizes, outline, shadow, and textured backgrounds of the Quest / Objective Tracker (WoW Forever & Retail).
+## Author: Michael Baker
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\qfont\Media\icon
+## Category-enUS: Quests & Leveling
+## SavedVariables: QFontDB
+## OptionalDeps: LibSharedMedia-3.0, Questie
+## AddonCompartmentFunc: QFont_OnCompartmentClick
+## AddonCompartmentFuncOnEnter: QFont_OnCompartmentEnter
+## AddonCompartmentFuncOnLeave: QFont_OnCompartmentLeave
+
+Fonts.lua
+Core.lua
+Settings.lua
+QuickPanel.lua

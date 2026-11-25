@@ -10,6 +10,7 @@
 ## AddonCompartmentFunc: QFont_OnCompartmentClick
 ## AddonCompartmentFuncOnEnter: QFont_OnCompartmentEnter
 ## AddonCompartmentFuncOnLeave: QFont_OnCompartmentLeave
+## X-Curse-Project-ID: 1829753
 
 Fonts.lua
 Core.lua
